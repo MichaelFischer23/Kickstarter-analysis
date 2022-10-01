@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Analizing Kickstarter data to find trends that can be used to create more successful projects.
+Analyzing Kickstarter data to find trends that can be used to create more successful projects.
 # Overview of Project
 This analysis was created to help find trends in successful kickstarter campaigns in order to help Louise's next fundraiser reach it's goal. After analysis was complete of over one thousand campaigns we were able to distinguish trends using both launch date and goals. You will find this conclusions in the results section.
 # Analysis and Challenges 
